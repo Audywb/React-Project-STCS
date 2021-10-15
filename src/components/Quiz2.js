@@ -1,7 +1,7 @@
 import '../App.css';
 import {useContext,useEffect,useState} from "react"
-import QuestionsData from '../data/QuestionsData';
-import { DataContext } from './page/Quiz1';
+import QuestionsData from '../data/QuestionsData2';
+import { DataContext } from './page/Quiz02';
 
 const Quiz = ()=>{
     // console.log(QuestionsData);

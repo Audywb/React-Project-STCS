@@ -1,6 +1,6 @@
 import '../App.css';
 import { useContext } from "react"
-import { DataContext } from "./page/Quiz1"
+import { DataContext } from "./page/Quiz02"
 
 const Menu = ()=>{
     const {setAppState} = useContext(DataContext)
