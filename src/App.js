@@ -1,9 +1,5 @@
 import './App.css';
-import {createContext, useState} from "react"
 import { BrowserRouter as Router, Switch,Route } from "react-router-dom"
-import Menu from "./components/Menu"
-import Quiz from "./components/Quiz"
-import Score from "./components/Score"
 import Navigation from './components/Navigation';
 import Home from './components/page/Home'
 import Quiz1 from './components/page/Quiz1';
